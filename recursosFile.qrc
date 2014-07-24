@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>recursos/scena.png</file>
+    <file>recursos/errorIco.png</file>
+    <file>recursos/StartRender.png</file>
+    <file>recursos/debug.png</file>
+    <file>recursos/registrarBoton.png</file>
+    <file>recursos/formato.png</file>
+    <file>recursos/setThread.png</file>
+    <file>recursos/runPy.png</file>
+    <file>recursos/browseBlenderToolTip.png</file>
+    <file>recursos/browseBlend.png</file>
+    <file>recursos/guardarIco.png</file>
+    <file>recursos/quitarIco.png</file>
+    <file>recursos/addIco.png</file>
+    <file>recursos/icono.ico</file>
+    <file>recursos/blendFile.png</file>
+    <file>recursos/browse.png</file>
+    <file>recursos/imagenBrowse.png</file>
+    <file>recursos/renderAni.png</file>
+    <file>recursos/renderImage.png</file>
+  </qresource>
+</RCC>
